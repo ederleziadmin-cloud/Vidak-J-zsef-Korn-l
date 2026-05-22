@@ -1,0 +1,6 @@
+{
+  "name": "Nova Terra OS",
+  "description": "Nova Terra International Ecosystem & Tabadala Engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
